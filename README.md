@@ -6,8 +6,8 @@ Upload images → auto-detect edges → perspective correct → download as PDF.
 ---
 
 ## 🌐 Live Demo
-![Demo](demo.mp4)
----
+## 🎥 Demo
+![Demo](demo.gif)
 
 ## ✨ Features
 
