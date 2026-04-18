@@ -7,13 +7,6 @@ Upload images → auto-detect edges → perspective correct → download as PDF.
 
 ## 🌐 Live Demo
 
-👉 **[Try it here](https://your-app-name.streamlit.app)** ← replace with your link after deploying
-
----
-
-## 📸 Screenshots
-
-> Upload your images, choose enhancement mode, preview results, and download your scanned PDF — all in one clean web interface.
 
 ---
 
